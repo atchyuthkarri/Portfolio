@@ -1,7 +1,7 @@
 import { IProject } from '@/types';
 
 export const GENERAL_INFO = {
-    email: 'atchyuthkarri20@gmail',
+    email: 'atchyuthkarri46@gmail',
 
     emailSubject: "Let's collaborate on a project",
     emailBody: 'Hi Atchyuth, I am reaching out to you because...',
@@ -108,6 +108,14 @@ export const MY_STACK = {
             name: 'AWS',
             icon: '/logo/aws.png',
         },
+        {
+            name: 'Postman',
+            icon: '/logo/postman.png',
+        },
+          {
+            name: 'Vercel',
+            icon: '/logo/vercel.svg',
+          },
     ],
 };
 
@@ -119,7 +127,7 @@ export const PROJECTS: IProject[] = [
         year: 2025,
         description: `
       Storely is a full-stack e-commerce web application designed to deliver a seamless and user-friendly online shopping experience. The platform allows users to browse products, view detailed product information, and perform CRUD operations efficiently through a well-structured backend.<br><br>
-      
+
      Key Features:<br/>
         <ul>
         <li>🛒 Product Catalog System: Dynamic product listing with category-based filtering for easy product discovery</li>
@@ -128,7 +136,7 @@ export const PROJECTS: IProject[] = [
         <li>📱 Fully Responsive Design: Optimized user experience across mobile, tablet, and desktop devices</li>
         <li>⚡ Optimized Performance: Efficient frontend rendering and fast API responses for smooth browsing</li>
         </ul><br/>
-      
+
       Technical Highlights:
 <ul>
   <li>Designed RESTful APIs using Node.js and Express.js for product, cart, and user management</li>
@@ -169,7 +177,7 @@ export const PROJECTS: IProject[] = [
     },
     {
         title: 'Sweets Delight',
-        slug: 'Sweets Delight',
+        slug: 'sweets-delight',
         techStack: [
             'React Js',
             'Slider Js',
@@ -185,7 +193,7 @@ export const PROJECTS: IProject[] = [
             '/projects/images/sweetsdelight3.png',
             '/projects/images/sweetsdelight4.png',
         ],
-        liveUrl: 'sweetsdelight.vercel.app',
+        liveUrl: 'https://sweetsdelight.vercel.app/',
         year: 2026,
         description: `Sweets Delight is a scalable and interactive e-commerce frontend inspired by traditional Indian sweet brands. The application incorporates dynamic product rendering, animated UI transitions using Framer Motion, and responsive carousels built with Swiper.js. The project emphasizes modular design, maintainability, and customizable theming through CSS root variables.`,
 

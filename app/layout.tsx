@@ -1,8 +1,10 @@
 import { Anton, Roboto_Flex } from 'next/font/google';
 import { ReactLenis } from 'lenis/react';
+import Script from 'next/script';
 
 import 'lenis/dist/lenis.css';
 import './globals.css';
+
 import Footer from '@/components/Footer';
 import ScrollProgressIndicator from '@/components/ScrollProgressIndicator';
 import ParticleBackground from '@/components/ParticleBackground';
@@ -10,7 +12,6 @@ import Navbar from '@/components/Navbar';
 import CustomCursor from '@/components/CustomCursor';
 import Preloader from '../components/Preloader';
 import StickyEmail from './_components/StickyEmail';
-import Script from 'next/script';
 
 const antonFont = Anton({
     weight: '400',
@@ -33,12 +34,11 @@ export const metadata = {
 
 export default function RootLayout({
     children,
-}: Readonly<{
+}: {
     children: React.ReactNode;
-}>) {
+}) {
     return (
         <html lang="en">
-            import Script from "next/script";
             <body
                 className={`${antonFont.variable} ${robotoFlex.variable} antialiased`}
             >
