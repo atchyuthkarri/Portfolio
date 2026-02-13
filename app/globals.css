@@ -4,48 +4,48 @@
 
 @layer base {
     :root {
-        /* Deep navy background with rich undertones */
-        --background: 222 47% 11%;
-        --background-light: 223 43% 16%;
-        --foreground: 210 40% 96%;
+        /* Ferrari F1 Theme - Dark Racing Background */
+        --background: 0 0% 10%;
+        --background-light: 0 0% 15%;
+        --foreground: 0 0% 98%;
 
-        /* Cards with subtle blue tint */
-        --card: 222 47% 8%;
-        --card-foreground: 210 40% 98%;
-        --popover: 222 47% 8%;
-        --popover-foreground: 210 40% 98%;
+        /* Cards with subtle dark tones */
+        --card: 0 0% 8%;
+        --card-foreground: 0 0% 98%;
+        --popover: 0 0% 8%;
+        --popover-foreground: 0 0% 98%;
 
-        /* Vibrant cyan/turquoise primary */
-        --primary: 189 94% 55%;
-        --primary-foreground: 222 47% 11%;
+        /* Ferrari Racing Red Primary */
+        --primary: 0 100% 43%;
+        --primary-foreground: 0 0% 100%;
         
-        /* Electric purple secondary */
-        --secondary: 271 81% 65%;
-        --secondary-foreground: 210 40% 98%;
+        /* Deep Black Secondary */
+        --secondary: 0 0% 20%;
+        --secondary-foreground: 0 0% 98%;
         
-        /* Muted tones with blue undertones */
-        --muted: 217 33% 17%;
-        --muted-foreground: 217 20% 65%;
+        /* Muted grey tones */
+        --muted: 0 0% 20%;
+        --muted-foreground: 0 0% 65%;
         
-        /* Accent with warm coral/pink */
-        --accent: 340 82% 62%;
-        --accent-foreground: 210 40% 98%;
+        /* Ferrari Red Accent */
+        --accent: 0 100% 43%;
+        --accent-foreground: 0 0% 100%;
         
-        /* Destructive with modern red */
-        --destructive: 0 84% 60%;
-        --destructive-foreground: 210 40% 98%;
+        /* Destructive red (slightly darker) */
+        --destructive: 0 85% 40%;
+        --destructive-foreground: 0 0% 100%;
         
-        /* Borders and inputs */
-        --border: 217 33% 24%;
-        --input: 217 33% 17%;
-        --ring: 189 94% 55%;
+        /* Borders and inputs - subtle grey */
+        --border: 0 0% 25%;
+        --input: 0 0% 18%;
+        --ring: 0 100% 43%;
         
-        /* Chart colors - vibrant and diverse */
-        --chart-1: 189 94% 55%;
-        --chart-2: 271 81% 65%;
-        --chart-3: 340 82% 62%;
-        --chart-4: 142 76% 56%;
-        --chart-5: 45 93% 58%;
+        /* Chart colors - Ferrari racing palette */
+        --chart-1: 0 100% 43%;
+        --chart-2: 0 0% 20%;
+        --chart-3: 0 0% 80%;
+        --chart-4: 0 85% 50%;
+        --chart-5: 0 0% 40%;
     }
 }
 
