@@ -300,6 +300,11 @@ export const PROJECTS: IProject[] = [
 
 export const MY_EXPERIENCE = [
     {
+        title: 'Fullstack Developer',
+        company: 'Have Life Technology',
+        duration: 'JAN 2026 - Present',
+    },
+    {
         title: 'Project Intern',
         company: 'Indian Institute of Technology Dhanbad (IIT ISM)',
         duration: 'AUG 2025 - Present',
@@ -309,11 +314,6 @@ export const MY_EXPERIENCE = [
         company: 'SSIT',
         duration: 'JUN 2025 - AUG 2025',
     },
-    // {
-    //     title: 'Frontend Engineer',
-    //     company: 'Anchorblock Technology',
-    //     duration: 'Oct 2022 - Sep 2023',
-    // },
     // {
     //     title: 'Frontend Developer (Part-time)',
     //     company: 'Branex IT',

@@ -4,48 +4,48 @@
 
 @layer base {
     :root {
-        /* Ferrari F1 Theme - Dark Racing Background */
-        --background: 0 0% 10%;
-        --background-light: 0 0% 15%;
-        --foreground: 0 0% 98%;
-
-        /* Cards with subtle dark tones */
-        --card: 0 0% 8%;
-        --card-foreground: 0 0% 98%;
-        --popover: 0 0% 8%;
-        --popover-foreground: 0 0% 98%;
-
-        /* Ferrari Racing Red Primary */
-        --primary: 0 100% 43%;
-        --primary-foreground: 0 0% 100%;
-        
-        /* Deep Black Secondary */
-        --secondary: 0 0% 20%;
-        --secondary-foreground: 0 0% 98%;
-        
-        /* Muted grey tones */
-        --muted: 0 0% 20%;
-        --muted-foreground: 0 0% 65%;
-        
-        /* Ferrari Red Accent */
-        --accent: 0 100% 43%;
-        --accent-foreground: 0 0% 100%;
-        
-        /* Destructive red (slightly darker) */
-        --destructive: 0 85% 40%;
+        /* Deep Midnight Background */
+        --background: 222 47% 11%;
+        --background-light: 222 47% 16%;
+        --foreground: 210 40% 98%;
+    
+        /* Cards */
+        --card: 222 47% 14%;
+        --card-foreground: 210 40% 98%;
+        --popover: 222 47% 14%;
+        --popover-foreground: 210 40% 98%;
+    
+        /* Neon Cyan Primary */
+        --primary: 190 100% 50%;
+        --primary-foreground: 222 47% 11%;
+    
+        /* Soft Blue Secondary */
+        --secondary: 215 28% 25%;
+        --secondary-foreground: 210 40% 98%;
+    
+        /* Muted */
+        --muted: 215 28% 25%;
+        --muted-foreground: 215 20% 65%;
+    
+        /* Accent */
+        --accent: 190 100% 50%;
+        --accent-foreground: 222 47% 11%;
+    
+        /* Destructive */
+        --destructive: 0 72% 51%;
         --destructive-foreground: 0 0% 100%;
-        
-        /* Borders and inputs - subtle grey */
-        --border: 0 0% 25%;
-        --input: 0 0% 18%;
-        --ring: 0 100% 43%;
-        
-        /* Chart colors - Ferrari racing palette */
-        --chart-1: 0 100% 43%;
-        --chart-2: 0 0% 20%;
-        --chart-3: 0 0% 80%;
-        --chart-4: 0 85% 50%;
-        --chart-5: 0 0% 40%;
+    
+        /* Borders */
+        --border: 215 28% 30%;
+        --input: 215 28% 20%;
+        --ring: 190 100% 50%;
+    
+        /* Charts */
+        --chart-1: 190 100% 50%;
+        --chart-2: 222 47% 20%;
+        --chart-3: 210 40% 80%;
+        --chart-4: 160 100% 45%;
+        --chart-5: 215 20% 50%;
     }
 }
 

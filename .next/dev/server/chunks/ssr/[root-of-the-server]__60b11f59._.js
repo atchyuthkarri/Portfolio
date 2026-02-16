@@ -360,6 +360,11 @@ const PROJECTS = [
 ];
 const MY_EXPERIENCE = [
     {
+        title: 'Fullstack Developer',
+        company: 'Have Life Technology',
+        duration: 'JAN 2026 - Present'
+    },
+    {
         title: 'Project Intern',
         company: 'Indian Institute of Technology Dhanbad (IIT ISM)',
         duration: 'AUG 2025 - Present'

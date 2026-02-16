@@ -1,1 +1,11 @@
-{"version":4,"routes":{"/projects/Storely":{},"/projects/Sweets Delight":{},"/projects/sweets-delight":{},"/projects/sweetsdelight":{},"/projects/storely":{},"/projects/sweetdelight":{},"/projects/Sweetsdelight":{},"/projects/resume-roaster":{},"/projects/crenotive":{}},"dynamicRoutes":{"/projects/[slug]":{"dataRoute":null,"dataRouteRegex":null,"fallback":null,"fallbackRevalidate":false,"fallbackSourceRoute":"/projects/[slug]","routeRegex":"^\\/projects\\/([^/]+?)(?:\\/)?$","allowHeader":[]}},"notFoundRoutes":[],"preview":{"previewModeId":"e990003079c3defec1bea6f80af6ab31","previewModeSigningKey":"4f18298ee5e6a04e727e8bf8a8ff31e3ee13935f063af7898fb1e16f7e31d3c5","previewModeEncryptionKey":"e1287e000c34647b32fc4b3ea7f03a23e758af19aebf78dd840b5c331275a9df"}}
+{
+  "version": 4,
+  "routes": {},
+  "dynamicRoutes": {},
+  "notFoundRoutes": [],
+  "preview": {
+    "previewModeId": "2c9f02659fe2544f977fe139b5394aba",
+    "previewModeSigningKey": "89d08452d73cba8875839202fb535d5a506de30ed6b3d37858fd02592814e92d",
+    "previewModeEncryptionKey": "7f0921a15c9bb7bb3c64c50c2f26b571c2859cd0bf2e2c3a341d0659e121816d"
+  }
+}
