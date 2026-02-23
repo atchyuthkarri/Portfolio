@@ -750,64 +750,56 @@ const Preloader = ()=>{
         ref: preloaderRef,
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "preloader-item h-full w-[10%] bg-black",
-                children: "A"
+                className: "preloader-item h-full w-[10%] bg-black"
             }, void 0, false, {
                 fileName: "[project]/components/Preloader.tsx",
                 lineNumber: 45,
                 columnNumber: 13
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "preloader-item h-full w-[10%] bg-black",
-                children: "T"
+                className: "preloader-item h-full w-[10%] bg-black"
             }, void 0, false, {
                 fileName: "[project]/components/Preloader.tsx",
                 lineNumber: 46,
                 columnNumber: 13
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "preloader-item h-full w-[10%] bg-black",
-                children: "C"
+                className: "preloader-item h-full w-[10%] bg-black"
             }, void 0, false, {
                 fileName: "[project]/components/Preloader.tsx",
                 lineNumber: 47,
                 columnNumber: 13
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "preloader-item h-full w-[10%] bg-black",
-                children: "H"
+                className: "preloader-item h-full w-[10%] bg-black"
             }, void 0, false, {
                 fileName: "[project]/components/Preloader.tsx",
                 lineNumber: 48,
                 columnNumber: 13
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "preloader-item h-full w-[10%] bg-black",
-                children: "Y"
+                className: "preloader-item h-full w-[10%] bg-black"
             }, void 0, false, {
                 fileName: "[project]/components/Preloader.tsx",
                 lineNumber: 49,
                 columnNumber: 13
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "preloader-item h-full w-[10%] bg-black",
-                children: "U"
+                className: "preloader-item h-full w-[10%] bg-black"
             }, void 0, false, {
                 fileName: "[project]/components/Preloader.tsx",
                 lineNumber: 50,
                 columnNumber: 13
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "preloader-item h-full w-[10%] bg-black",
-                children: "T"
+                className: "preloader-item h-full w-[10%] bg-black"
             }, void 0, false, {
                 fileName: "[project]/components/Preloader.tsx",
                 lineNumber: 51,
                 columnNumber: 13
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "preloader-item h-full w-[10%] bg-black",
-                children: "H"
+                className: "preloader-item h-full w-[10%] bg-black"
             }, void 0, false, {
                 fileName: "[project]/components/Preloader.tsx",
                 lineNumber: 52,

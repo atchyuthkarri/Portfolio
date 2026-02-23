@@ -50,10 +50,10 @@ export const MY_STACK = {
         //     name: 'GSAP',
         //     icon: '/logo/gsap.png',
         // },
-        // {
-        //     name: 'Framer Motion',
-        //     icon: '/logo/framer-motion.png',
-        // },
+        {
+            name: 'Framer Motion',
+            icon: '/logo/framer-motion.png',
+        },
         // {
         //     name: 'Sass',
         //     icon: '/logo/sass.png',
@@ -167,8 +167,8 @@ export const PROJECTS: IProject[] = [
             'JWT Authentication',
             'REST APIs',
         ],
-        thumbnail: '/projects/thumbnail/storely.png',
-        longThumbnail: '/projects/thumbnail/storely.png',
+        thumbnail: '/projects/thumbnail/storelythumbnail.png',
+        longThumbnail: '/projects/thumbnail/storelythumbnail.png',
         images: [
             '/projects/images/storelyimg2.png',
             '/projects/images/storelyimg3.png',
