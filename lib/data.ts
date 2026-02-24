@@ -1,7 +1,7 @@
 import { IProject } from '@/types';
 
 export const GENERAL_INFO = {
-    email: 'atchyuthkarri20@gmail',
+    email: 'atchyuthkarri46@gmail.com',
 
     emailSubject: "Let's collaborate on a project",
     emailBody: 'Hi Atchyuth, I am reaching out to you because...',
@@ -159,8 +159,13 @@ export const PROJECTS: IProject[] = [
             'JWT Authentication',
             'REST APIs',
         ],
+<<<<<<< Updated upstream
         thumbnail: '/projects/thumbnail/mti-electronics.webp',
         longThumbnail: '/projects/long/mti-electronics.webp',
+=======
+        thumbnail: '/projects/thumbnail/storelytumbnail.jpeg',
+        longThumbnail: '/projects/thumbnail/storelytumbnail.jpeg',
+>>>>>>> Stashed changes
         images: [
             '/projects/images/mti-electronics-1.webp',
             '/projects/images/mti-electronics-2.webp',
@@ -178,8 +183,13 @@ export const PROJECTS: IProject[] = [
             'debouncing',
             'Api Integration',
         ],
+<<<<<<< Updated upstream
         thumbnail: '/projects/thumbnail/epikcart.jpg',
         longThumbnail: '/projects/long/epikcart.jpg',
+=======
+        thumbnail: '/projects/thumbnail/Sweets_delight.jpeg',
+        longThumbnail: '/projects/thumbnail/Sweets_delight.jpeg',
+>>>>>>> Stashed changes
         images: [
             '/projects/images/epikcart-1.png',
             '/projects/images/epikcart-2.png',
