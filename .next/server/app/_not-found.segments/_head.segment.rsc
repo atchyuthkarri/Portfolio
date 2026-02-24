@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/e158654a8f2d5659.js","/_next/static/chunks/e4caead7367f4e41.js","/_next/static/chunks/4f7c77150b57fc63.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"ViewportBoundary"]
+3:I[97367,["/_next/static/chunks/e158654a8f2d5659.js","/_next/static/chunks/e4caead7367f4e41.js","/_next/static/chunks/4f7c77150b57fc63.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"0Hy5vcPT9JQpgrQ9scw9k","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Portfolio - Atchyuth Karri"}],["$","meta","1",{"name":"description","content":"Personal portfolio of Atchyuth Karri"}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
