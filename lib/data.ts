@@ -152,163 +152,160 @@ export const PROJECTS: IProject[] = [
         `,
         techStack: [
             'React.js',
-            'Tailwind CSS',
+            'CSS',
             'Node.js',
             'Express.js',
             'MongoDB',
             'JWT Authentication',
             'REST APIs',
         ],
-<<<<<<< Updated upstream
-        thumbnail: '/projects/thumbnail/mti-electronics.webp',
-        longThumbnail: '/projects/long/mti-electronics.webp',
-=======
-        thumbnail: '/projects/thumbnail/storelytumbnail.jpeg',
-        longThumbnail: '/projects/thumbnail/storelytumbnail.jpeg',
->>>>>>> Stashed changes
+        thumbnail: '/projects/thumbnail/storely-thumbanil.jpeg',
+        longThumbnail: '/projects/long/storely.png',
         images: [
-            '/projects/images/mti-electronics-1.webp',
-            '/projects/images/mti-electronics-2.webp',
+            '/projects/images/storely-1.png',
+            '/projects/images/storely-2.png',
+            '/projects/images/storely-3.png',
         ],
     },
     {
-        title: 'Epikcart',
-        slug: 'epikcart',
+        title: 'Kwality-Sweets',
+        slug: 'Kwality-Sweets',
         techStack: [
-            'React',
-            'Redux',
-            'React i18n',
-            'Tailwind CSS',
+            'React Js',
+            'Slider Js',
+            'CSS',
             'Framer Motion',
             'debouncing',
-            'Api Integration',
         ],
-<<<<<<< Updated upstream
-        thumbnail: '/projects/thumbnail/epikcart.jpg',
-        longThumbnail: '/projects/long/epikcart.jpg',
-=======
-        thumbnail: '/projects/thumbnail/Sweets_delight.jpeg',
-        longThumbnail: '/projects/thumbnail/Sweets_delight.jpeg',
->>>>>>> Stashed changes
+        thumbnail: '/projects/thumbnail/sweets_delight.jpeg',
+        longThumbnail: '/projects/long/sweetsdelight.png',
         images: [
-            '/projects/images/epikcart-1.png',
-            '/projects/images/epikcart-2.png',
-            '/projects/images/epikcart-3.png',
-            '/projects/images/epikcart-4.png',
-            '/projects/images/epikcart-5.png',
+            '/projects/images/sweetsdelight.1.png',
+            '/projects/images/sweetsdelight-2.png',
+            '/projects/images/sweetsdelight-3.png',
+            '/projects/images/sweetsdelight-4.png',
         ],
-        liveUrl: 'https://demo.epikcart.siphertech.com/',
-        year: 2023,
-        description: `Epikcart is a feature-rich, scalable e-commerce platform tailored for large businesses. It features dynamic product filtering, multi-language support with RTL, advanced inventory management, order tracking, and refund systems, offering a comprehensive solution for multi-vendor operations.`,
-        role: `As the frontend developer in a team of five, I: <br/>
-        - Built the frontend from scratch using React, Redux, RTK Query, and Tailwind CSS.<br/>
-        - Developed dynamic filtering logic for the product search page with admin-configurable parameters.<br/>
-        - Integrated multi-language support with React i18n, including RTL handling.<br/>
-        - Delivered a responsive, user-friendly interface in collaboration with the UI/UX designer.`,
-    },
-    {
-        title: 'Resume Roaster',
-        slug: 'resume-roaster',
-        techStack: [
-            'GPT-4',
-            'Next.js',
-            'Postgressql',
-            'Prisma',
-            'Tailwind CSS',
-        ],
-        thumbnail: '/projects/thumbnail/resume-roaster.jpg',
-        longThumbnail: '/projects/long/resume-roaster.jpg',
-        images: [
-            '/projects/images/resume-roaster-1.png',
-            '/projects/images/resume-roaster-2.png',
-            '/projects/images/resume-roaster-3.png',
-        ],
-        liveUrl: 'https://resume-roaster.vercel.app/',
-        year: 2023,
-        description:
-            'Resume Roaster is a web application designed to provide tailored resume feedback and professional writing services. Built with Next.js, PostgreSQL, Prisma, and Tailwind CSS, it integrates GPT-4 for AI-powered recommendations. The platform also includes peer-to-peer reviews with a points-based system, fostering a collaborative and engaging experience. Targeting freshers, experienced professionals, and programmers, it helps optimize resumes for job-specific success.',
-        role: `As the sole developer and business owner, I:<br/>
-        - Designed and developed the platform end-to-end using Next.js, PostgreSQL, Prisma, and Tailwind CSS.<br/>
-        - Integrated GPT-4 for AI-driven feedback and insights.<br/>
-        - Implemented complex SQL queries, including one to identify the top two resumes based on user points.`,
-    },
-    {
-        title: 'Real Estate',
-        slug: 'property-pro',
-        techStack: [
-            'React.js',
-            'Redux',
-            'Tailwind CSS',
-            'React i18n',
-            'Framer Motion',
-        ],
-        thumbnail: '/projects/thumbnail/property-pro.jpg',
-        longThumbnail: '/projects/long/property-pro.jpg',
-        images: [
-            '/projects/images/property-pro-1.png',
-            '/projects/images/property-pro-2.png',
-            '/projects/images/property-pro-3.png',
-        ],
-        liveUrl: 'https://demo.propertypro.siphertech.com/',
-        year: 2023,
-        description:
-            'PropertyPro is a real estate management platform offering users a seamless experience to explore, manage, and view property listings. The application emphasizes accessibility and responsive design, ensuring a smooth interface across devices.',
-        role: `As the frontend developer, I:<br/>
-        - Built the frontend using React, Redux, RTK Query, Framer Motion, and Tailwind CSS.<br/>
-        - Integrated dynamic state management for efficient handling of property data.<br/>
-        - Implemented multi-language support with React i18n to cater to diverse audiences.<br/>
-        - Enhanced user interaction with animations and transitions using Framer Motion.`,
-    },
-    {
-        title: 'Consulting Finance',
-        slug: 'crenotive',
-        techStack: ['HTML', 'CSS & SCSS', 'Javascript', 'Bootstrap'],
-        thumbnail: '/projects/thumbnail/consulting-finance.jpg',
-        longThumbnail: '/projects/long/consulting-finance.jpg',
-        images: [
-            '/projects/images/consulting-finance-1.png',
-            '/projects/images/consulting-finance-2.png',
-            '/projects/images/consulting-finance-3.png',
-        ],
-        sourceCode: 'https://github.com/Tajmirul/crenotive',
-        liveUrl: 'https://crenotive.netlify.app/',
-        year: 2023,
-        description:
-            'I developed Crenotive, a portfolio website using Html, SASS, and jQuery to showcase services and expertise. The design focuses on responsive user experience and effective presentation of professional achievements.',
-        role: ``,
-    },
-    {
-        title: 'devLinks',
-        slug: 'devLinks',
-        techStack: ['Next.js', 'Formik', 'Drag & Drop', 'Tailwind CSS'],
-        thumbnail: '/projects/thumbnail/devLinks.jpg',
-        longThumbnail: '/projects/long/devLinks.jpg',
-        images: [
-            '/projects/images/devLinks-1.png',
-            '/projects/images/devLinks-2.png',
-            '/projects/images/devLinks-3.png',
-        ],
-        sourceCode: 'https://github.com/Tajmirul/devsLink',
-        liveUrl: 'https://devlinks-demo.vercel.app/auth/signin',
-        year: 2023,
-        description: `One of the most challenging projects in Frontend Mentor.<br/><br/>
+        liveUrl: 'https://sweetsdelight.vercel.app/',
+        year: 2025,
+        description: `Sweets Delight is a scalable and interactive e-commerce frontend inspired by traditional Indian sweet brands. The application incorporates dynamic product rendering, animated UI transitions using Framer Motion, and responsive carousels built with Swiper.js. The project emphasizes modular design, maintainability, and customizable theming through CSS root variables.`,
 
-            I developed a LinkSharing App as part of the Frontend Mentor challenge, utilizing React, Redux, and Tailwind CSS to create a responsive and feature-rich platform. The app allows users to share, save, and explore links, with a focus on intuitive design and smooth navigation. Advanced state management ensures efficient data handling for user interactions.`,
-        role: ``,
-    },
+        role: `As the sole frontend developer, I:<br/>
+- Architected and developed the complete frontend using React, focusing on performance and maintainability.<br/>
+- Implemented Swiper.js-based interactive sliders for hero and product showcases to improve visual engagement.<br/>
+- Integrated Framer Motion to deliver smooth animations, transitions, and enhanced user experience.<br/>
+- Designed and built reusable UI components including Navbar, Hero, ProductCard, Products, and Footer.<br/>
+- Structured the project with a scalable and clean folder architecture to support future feature expansion.<br/>
+- Developed a global theming system using CSS variables, enabling flexible and consistent design updates.<br/>
+- Optimized layouts for responsiveness, ensuring a seamless experience across devices and screen sizes.`,
+},
+    // {
+    //     title: 'Resume Roaster',
+    //     slug: 'resume-roaster',
+    //     techStack: [
+    //         'GPT-4',
+    //         'Next.js',
+    //         'Postgressql',
+    //         'Prisma',
+    //         'Tailwind CSS',
+    //     ],
+    //     thumbnail: '/projects/thumbnail/resume-roaster.jpg',
+    //     longThumbnail: '/projects/long/resume-roaster.jpg',
+    //     images: [
+    //         '/projects/images/resume-roaster-1.png',
+    //         '/projects/images/resume-roaster-2.png',
+    //         '/projects/images/resume-roaster-3.png',
+    //     ],
+    //     liveUrl: 'https://resume-roaster.vercel.app/',
+    //     year: 2023,
+    //     description:
+    //         'Resume Roaster is a web application designed to provide tailored resume feedback and professional writing services. Built with Next.js, PostgreSQL, Prisma, and Tailwind CSS, it integrates GPT-4 for AI-powered recommendations. The platform also includes peer-to-peer reviews with a points-based system, fostering a collaborative and engaging experience. Targeting freshers, experienced professionals, and programmers, it helps optimize resumes for job-specific success.',
+    //     role: `As the sole developer and business owner, I:<br/>
+    //     - Designed and developed the platform end-to-end using Next.js, PostgreSQL, Prisma, and Tailwind CSS.<br/>
+    //     - Integrated GPT-4 for AI-driven feedback and insights.<br/>
+    //     - Implemented complex SQL queries, including one to identify the top two resumes based on user points.`,
+    // },
+    // {
+    //     title: 'Real Estate',
+    //     slug: 'property-pro',
+    //     techStack: [
+    //         'React.js',
+    //         'Redux',
+    //         'Tailwind CSS',
+    //         'React i18n',
+    //         'Framer Motion',
+    //     ],
+    //     thumbnail: '/projects/thumbnail/property-pro.jpg',
+    //     longThumbnail: '/projects/long/property-pro.jpg',
+    //     images: [
+    //         '/projects/images/property-pro-1.png',
+    //         '/projects/images/property-pro-2.png',
+    //         '/projects/images/property-pro-3.png',
+    //     ],
+    //     liveUrl: 'https://demo.propertypro.siphertech.com/',
+    //     year: 2023,
+    //     description:
+    //         'PropertyPro is a real estate management platform offering users a seamless experience to explore, manage, and view property listings. The application emphasizes accessibility and responsive design, ensuring a smooth interface across devices.',
+    //     role: `As the frontend developer, I:<br/>
+    //     - Built the frontend using React, Redux, RTK Query, Framer Motion, and Tailwind CSS.<br/>
+    //     - Integrated dynamic state management for efficient handling of property data.<br/>
+    //     - Implemented multi-language support with React i18n to cater to diverse audiences.<br/>
+    //     - Enhanced user interaction with animations and transitions using Framer Motion.`,
+    // },
+    // {
+    //     title: 'Consulting Finance',
+    //     slug: 'crenotive',
+    //     techStack: ['HTML', 'CSS & SCSS', 'Javascript', 'Bootstrap'],
+    //     thumbnail: '/projects/thumbnail/consulting-finance.jpg',
+    //     longThumbnail: '/projects/long/consulting-finance.jpg',
+    //     images: [
+    //         '/projects/images/consulting-finance-1.png',
+    //         '/projects/images/consulting-finance-2.png',
+    //         '/projects/images/consulting-finance-3.png',
+    //     ],
+    //     sourceCode: 'https://github.com/Tajmirul/crenotive',
+    //     liveUrl: 'https://crenotive.netlify.app/',
+    //     year: 2023,
+    //     description:
+    //         'I developed Crenotive, a portfolio website using Html, SASS, and jQuery to showcase services and expertise. The design focuses on responsive user experience and effective presentation of professional achievements.',
+    //     role: ``,
+    // },
+    // {
+    //     title: 'devLinks',
+    //     slug: 'devLinks',
+    //     techStack: ['Next.js', 'Formik', 'Drag & Drop', 'Tailwind CSS'],
+    //     thumbnail: '/projects/thumbnail/devLinks.jpg',
+    //     longThumbnail: '/projects/long/devLinks.jpg',
+    //     images: [
+    //         '/projects/images/devLinks-1.png',
+    //         '/projects/images/devLinks-2.png',
+    //         '/projects/images/devLinks-3.png',
+    //     ],
+    //     sourceCode: 'https://github.com/Tajmirul/devsLink',
+    //     liveUrl: 'https://devlinks-demo.vercel.app/auth/signin',
+    //     year: 2023,
+    //     description: `One of the most challenging projects in Frontend Mentor.<br/><br/>
+
+    //         I developed a LinkSharing App as part of the Frontend Mentor challenge, utilizing React, Redux, and Tailwind CSS to create a responsive and feature-rich platform. The app allows users to share, save, and explore links, with a focus on intuitive design and smooth navigation. Advanced state management ensures efficient data handling for user interactions.`,
+    //     role: ``,
+    // },
 ];
 
 export const MY_EXPERIENCE = [
     {
+        title: 'Full Stack Developer',
+        company: 'Have Life Technology Solutions',
+        duration: 'JAN 2026 - Present',
+    },
+    {
         title: 'Project Intern',
         company: 'Indian Institute of Technology Dhanbad (IIT ISM)',
-        duration: 'AUG 2025 - Present',
+        duration: 'AUG 2025 - JAN 2026',
     },
     {
         title: 'Frontend Developer',
         company: 'SSIT',
         duration: 'JUN 2025 - AUG 2025',
-    },
+    }
     // {
     //     title: 'Frontend Engineer',
     //     company: 'Anchorblock Technology',
