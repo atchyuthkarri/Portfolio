@@ -92,7 +92,7 @@ export const PROJECTS: IProject[] = [
             'Swiper.js',
         ],
         thumbnail: '/projects/thumbnail/sweets_delight.png',
-        longThumbnail: '/projects/long/sweets_delight.png',
+        longThumbnail: '/projects/thumbnail/sweets_delight.png',
         images: [
             '/projects/images/sweetsdelight-1.png',
             '/projects/images/sweetsdelight-2.png',
