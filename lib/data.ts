@@ -70,7 +70,7 @@ export const PROJECTS: IProject[] = [
             '/projects/thumbnail/storelyimg2.png',
             '/projects/thumbnail/storelyimg3.png',
             '/projects/thumbnail/storelyimg4.png',
-]
+        ]
     },
     {
         title: 'Kwality-Sweets',
@@ -97,7 +97,7 @@ export const PROJECTS: IProject[] = [
             '/projects/images/sweetsdelight-1.png',
             '/projects/images/sweetsdelight-2.png',
             '/projects/images/sweetsdelight-3.png',
-            '/projects/images/sweetsdelight-4.png',
+
         ],
     },
 ];
