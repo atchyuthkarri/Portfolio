@@ -70,7 +70,7 @@ export const PROJECTS: IProject[] = [
             '/projects/thumbnail/storelyimg2.png',
             '/projects/thumbnail/storelyimg3.png',
             '/projects/thumbnail/storelyimg4.png',
-]
+        ]
     },
     {
         title: 'Kwality-Sweets',
@@ -91,13 +91,12 @@ export const PROJECTS: IProject[] = [
             'Framer Motion',
             'Swiper.js',
         ],
-        thumbnail: '/projects/thumbnail/sweets_delight.jpeg',
-        longThumbnail: '/projects/long/sweetsdelight.png',
+        thumbnail: '/projects/thumbnail/sweets_delight.png',
+        longThumbnail: '/projects/long/sweets_delight.png',
         images: [
             '/projects/images/sweetsdelight-1.png',
             '/projects/images/sweetsdelight-2.png',
             '/projects/images/sweetsdelight-3.png',
-            '/projects/images/sweetsdelight-4.png',
         ],
     },
 ];
