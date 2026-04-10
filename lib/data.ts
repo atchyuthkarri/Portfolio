@@ -99,6 +99,71 @@ export const PROJECTS: IProject[] = [
             '/projects/images/sweetsdelight-3.png',
         ],
     },
+    {
+        title: 'Juvarya',
+        slug: 'Juvarya',
+        liveUrl: 'https://juvarya-web.vercel.app/',
+        year: 2025,
+        description: `Juvarya is a modern web application featuring a highly responsive user interface and an engaging user experience designed with modern web paradigms.`,
+        role: `Frontend Developer`,
+        techStack: [
+            'React Js',
+            'Tailwind CSS',
+            'Framer Motion'
+        ],
+        thumbnail: '/projects/thumbnail/juvarya.png',
+        longThumbnail: '/projects/long/juvarya.png',
+        images: [
+            '/projects/long/juvarya.png',
+            '/projects/thumbnail/juvarya.png'
+        ]
+    },
+    {
+        title: 'HLT Solutions',
+        slug: 'HLT-Solutions',
+        liveUrl: 'https://hlt-mauve.vercel.app/',
+        year: 2026,
+        description: `A futuristic, premium web platform crafted for an IT solutions agency, featuring rich glassmorphism effects, animated gradients, and high-performance interactive animations.`,
+        role: `Full Stack Developer`,
+        techStack: [
+            'Next.js',
+            'React',
+            'Tailwind CSS',
+            'Framer Motion'
+        ],
+        thumbnail: '/projects/thumbnail/hlt.png',
+        longThumbnail: '/projects/long/hlt.png',
+        images: [
+            '/projects/long/hlt.png',
+            '/projects/thumbnail/hlt.png'
+        ]
+    },
+    {
+        title: 'Real-Time Trading Simulator System',
+        slug: 'real-time-trading-simulator',
+        liveUrl: 'https://trading-simulator-two.vercel.app/',
+        year: 2025,
+        description: `A full-stack trading simulator platform that replicates real-world market mechanics, featuring live market data, a custom order matching engine, and WebSocket-based real-time updates. Built to enable users to execute and test trading strategies in a realistic, risk-free environment, with a focus on performance, scalability, and a premium user experience.`,
+        role: `Full Stack Developer`,
+        techStack: [
+            'Next.js',
+            'React.js',
+            'TypeScript',
+            'Node.js',
+            'Express.js',
+            'PostgreSQL',
+            'Prisma',
+            'Redis',
+            'WebSockets',
+            'Tailwind CSS'
+        ],
+        thumbnail: '/projects/thumbnail/trading.png',
+        longThumbnail: '/projects/long/trading.png',
+        images: [
+            '/projects/long/trading.png',
+            '/projects/thumbnail/trading.png'
+        ]
+    }
 ];
 
 export const MY_EXPERIENCE = [
