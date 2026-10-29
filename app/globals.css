@@ -66,6 +66,44 @@
         @apply gap-[25px];
     }
 
+    .masonry-grid {
+        @apply flex flex-col gap-6 md:gap-8;
+    }
+
+    @media (min-width: 768px) {
+        .masonry-grid {
+            column-count: 2;
+            column-gap: 2rem;
+            break-inside: avoid;
+        }
+
+        .project-card {
+            break-inside: avoid;
+            aspect-ratio: auto;
+            min-height: 300px;
+        }
+
+        /* Alternate card heights for masonry effect */
+        .project-card:nth-child(3n) {
+            min-height: 380px;
+        }
+
+        .project-card:nth-child(3n + 1) {
+            min-height: 320px;
+        }
+
+        .project-card:nth-child(3n + 2) {
+            min-height: 350px;
+        }
+    }
+
+    @media (min-width: 1024px) {
+        .masonry-grid {
+            column-count: 3;
+            column-gap: 2.5rem;
+        }
+    }
+
     .markdown-text ul {
         @apply pl-5 mt-2 list-disc;
     }
