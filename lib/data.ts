@@ -73,11 +73,11 @@ export const PROJECTS: IProject[] = [
             'Tailwind CSS',
             'Vercel',
         ],
-        thumbnail: '/projects/thumbnail/trading.png',
-        longThumbnail: '/projects/long/trading.png',
+        thumbnail: '/projects/thumbnail/real-time-trading-simulator.png',
+        longThumbnail: '/projects/long/real-time-trading-simulator.png',
         images: [
-            '/projects/long/trading.png',
-            '/projects/thumbnail/trading.png',
+            '/projects/thumbnail/real-time-trading-simulator.png',
+            '/projects/long/real-time-trading-simulator.png',
         ],
     },
     {
@@ -102,13 +102,13 @@ export const PROJECTS: IProject[] = [
             'REST APIs',
             'Express.js',
         ],
-        thumbnail: '/projects/thumbnail/storely-thumbanil.jpeg',
-        longThumbnail: '/projects/thumbnail/storely.png',
+        thumbnail: '/projects/thumbnail/storely.png',
+        longThumbnail: '/projects/long/storely.png',
         images: [
-            '/projects/thumbnail/storelyimg1.png',
-            '/projects/thumbnail/storelyimg2.png',
-            '/projects/thumbnail/storelyimg3.png',
-            '/projects/thumbnail/storelyimg4.png',
+            '/projects/thumbnail/storely.png',
+            '/projects/long/storely.png',
+            '/projects/images/storelyimg1.png',
+            '/projects/images/storelyimg2.png',
         ],
     },
     {
@@ -131,11 +131,13 @@ export const PROJECTS: IProject[] = [
             'Vercel',
             'Git',
         ],
-        thumbnail: '/projects/thumbnail/Sweets_delight.png',
-        longThumbnail: '/projects/long/sweetsdelight.png',
+        thumbnail: '/projects/thumbnail/Kwality-Sweets.png',
+        longThumbnail: '/projects/long/Kwality-Sweets.png',
         images: [
-            '/projects/thumbnail/Sweets_delight.png',
-            '/projects/long/sweetsdelight.png',
+            '/projects/thumbnail/Kwality-Sweets.png',
+            '/projects/long/Kwality-Sweets.png',
+            '/projects/images/sweetsdelight-1.png',
+            '/projects/images/sweetsdelight-2.png',
         ],
     },
     {
@@ -158,9 +160,10 @@ export const PROJECTS: IProject[] = [
             'Vercel',
         ],
         thumbnail: '/projects/thumbnail/studio-anvishion.png',
-        longThumbnail: '/projects/thumbnail/studio-anvishion.png',
+        longThumbnail: '/projects/long/studio-anvishion.png',
         images: [
             '/projects/thumbnail/studio-anvishion.png',
+            '/projects/long/studio-anvishion.png',
         ],
     },
     {
@@ -183,9 +186,10 @@ export const PROJECTS: IProject[] = [
             'Vercel',
         ],
         thumbnail: '/projects/thumbnail/the-hole-in-the-wall-cafe.png',
-        longThumbnail: '/projects/thumbnail/the-hole-in-the-wall-cafe.png',
+        longThumbnail: '/projects/long/the-hole-in-the-wall-cafe.png',
         images: [
             '/projects/thumbnail/the-hole-in-the-wall-cafe.png',
+            '/projects/long/the-hole-in-the-wall-cafe.png',
         ],
     },
     {
@@ -208,9 +212,10 @@ export const PROJECTS: IProject[] = [
             'Vercel',
         ],
         thumbnail: '/projects/thumbnail/studio-luxe.png',
-        longThumbnail: '/projects/thumbnail/studio-luxe.png',
+        longThumbnail: '/projects/long/studio-luxe.png',
         images: [
             '/projects/thumbnail/studio-luxe.png',
+            '/projects/long/studio-luxe.png',
         ],
     },
     {
@@ -233,9 +238,10 @@ export const PROJECTS: IProject[] = [
             'Vercel',
         ],
         thumbnail: '/projects/thumbnail/entsorgung-gruppe.png',
-        longThumbnail: '/projects/thumbnail/entsorgung-gruppe.png',
+        longThumbnail: '/projects/long/entsorgung-gruppe.png',
         images: [
             '/projects/thumbnail/entsorgung-gruppe.png',
+            '/projects/long/entsorgung-gruppe.png',
         ],
     },
     {
@@ -258,9 +264,10 @@ export const PROJECTS: IProject[] = [
             'Vercel',
         ],
         thumbnail: '/projects/thumbnail/archade-architecture.png',
-        longThumbnail: '/projects/thumbnail/archade-architecture.png',
+        longThumbnail: '/projects/long/archade-architecture.png',
         images: [
             '/projects/thumbnail/archade-architecture.png',
+            '/projects/long/archade-architecture.png',
         ],
     },
     {
@@ -276,11 +283,12 @@ export const PROJECTS: IProject[] = [
             'Tailwind CSS',
             'Framer Motion',
         ],
-        thumbnail: '/projects/thumbnail/hlt.png',
-        longThumbnail: '/projects/long/hlt.png',
+        thumbnail: '/projects/thumbnail/HLT-Solutions.png',
+        longThumbnail: '/projects/long/HLT-Solutions.png',
         images: [
-            '/projects/long/hlt.png',
-            '/projects/thumbnail/hlt.png',
+            '/projects/thumbnail/HLT-Solutions.png',
+            '/projects/long/HLT-Solutions.png',
+            '/projects/images/HLT-Solutions-2.png',
         ],
     },
     {
@@ -298,8 +306,8 @@ export const PROJECTS: IProject[] = [
         thumbnail: '/projects/thumbnail/juvarya.png',
         longThumbnail: '/projects/long/juvarya.png',
         images: [
-            '/projects/long/juvarya.png',
             '/projects/thumbnail/juvarya.png',
+            '/projects/long/juvarya.png',
         ],
     },
     {
@@ -322,6 +330,7 @@ export const PROJECTS: IProject[] = [
         thumbnail: '/projects/thumbnail/vault26.png',
         longThumbnail: '/projects/long/vault26.png',
         images: [
+            '/projects/thumbnail/vault26.png',
             '/projects/long/vault26.png',
         ],
     },
@@ -346,6 +355,7 @@ export const PROJECTS: IProject[] = [
         thumbnail: '/projects/thumbnail/studio-deny.png',
         longThumbnail: '/projects/long/studio-deny.png',
         images: [
+            '/projects/thumbnail/studio-deny.png',
             '/projects/long/studio-deny.png',
         ],
     },
@@ -372,6 +382,7 @@ export const PROJECTS: IProject[] = [
         thumbnail: '/projects/thumbnail/studio-deny-billing.png',
         longThumbnail: '/projects/long/studio-deny-billing.png',
         images: [
+            '/projects/thumbnail/studio-deny-billing.png',
             '/projects/long/studio-deny-billing.png',
         ],
     },
@@ -396,6 +407,7 @@ export const PROJECTS: IProject[] = [
         thumbnail: '/projects/thumbnail/shookets-cafe.png',
         longThumbnail: '/projects/long/shookets-cafe.png',
         images: [
+            '/projects/thumbnail/shookets-cafe.png',
             '/projects/long/shookets-cafe.png',
         ],
     },
@@ -420,6 +432,7 @@ export const PROJECTS: IProject[] = [
         thumbnail: '/projects/thumbnail/yy-interiors.png',
         longThumbnail: '/projects/long/yy-interiors.png',
         images: [
+            '/projects/thumbnail/yy-interiors.png',
             '/projects/long/yy-interiors.png',
         ],
     },
